@@ -47,7 +47,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 text="💔sᴜᴩᴩᴏʀᴛ💔", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="✨ sᴏᴜʀᴄᴇ ✨", url=f"https://github.com/itsneerja/NidhiMusic"
+                text="✨ sᴏᴜʀᴄᴇ ✨", url=f"https://telegra.ph/file/e4364470a6a4a7d3ccddb.mp4"
             )
         ],
      ]
